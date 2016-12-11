@@ -1,0 +1,64 @@
+body {
+	padding-right: 100px;
+	border: 1px solid black;
+	width: 490px;
+}
+
+nav{
+	background-color: orange;
+	position: fixed;
+	display: inline-block;
+}
+
+#light {
+	font-weight: lighter;
+}
+
+nav a {
+	color: #ffffff;
+	padding-right: 10px;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	display: inline-block;
+	padding: 10px;
+
+}
+
+form {
+	padding-top: 50px;
+	padding-left: 468px;
+
+}
+
+#side{
+	position: relative;
+	left: 300px;
+	bottom: 130px;
+	background-color: #f0f0f8;
+	color: orange;
+	width: 290px;
+}
+
+#quote {
+	background-color: orange;
+	color: white;
+}
+
+#view {
+	background-color: #00D0D0;
+	color: white;
+}
+
+#search {
+	position: fixed;
+}
+
+#color{
+	background-color: #00D0D0;
+	width: 122px;
+}
